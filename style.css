@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+   
+    background-color: #f5f5f5;
+}
+
+.navbar{
+    background: rgba(0,0,0,0.5);
+    
+}
+
+.carousel img{
+    
+    object-fit: cover;
+}
+.carousel{
+    margin-top: px;
+}
+.card{
+    border: none;
+    transition: 0.3s;
+}
+
+.card:hover{
+    transform: translateY(-10px);
+}
+
+.btn{
+    transition: 0.3s;
+}
+
+.btn:hover{
+    transform: scale(1.05);
+}
+
+section{
+    overflow: hidden;
+}
+
+footer{
+    margin-top: 50px;
+}
+
+img{
+    border-radius: px;
+}
